@@ -1,0 +1,16 @@
+{
+    "laboratorios": [
+        {
+            "nombre": "Laboratorio 1",
+            "token": "pLD1ZFoy2hFf3BGN4ie4Khdd"
+        },
+        {
+            "nombre": "Laboratorio 2",
+            "token": "pLD1ZFoy2hFf3BGN4ie4Khdd"
+        },
+        {
+            "nombre": "Laboratorio 3",
+            "token": "pLD1ZFoy2hFf3BGN4ie4Khdd"
+        }
+    ]
+}
