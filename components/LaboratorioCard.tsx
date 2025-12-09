@@ -7,7 +7,7 @@ interface Props {
 
 export default function LaboratorioCard({ lab }: Props){
     return (
-        <div className="card" onClick={()=>{alert(lab.getToken())}}>
+        <div className="card">
             <h3 className="title">{lab.getNombre()}</h3>
         </div>
     )
