@@ -1,7 +1,7 @@
 
 export default class Laboratorio {
-    nombre: string;
-    token: string;
+    private nombre: string;
+    private token: string;
 
     constructor(NOMBRE: string, TOKEN: string){
         this.nombre =  NOMBRE;
