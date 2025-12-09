@@ -8,7 +8,7 @@ interface Props {
 export default function LaboratorioCard({ lab }: Props){
     return (
         <div className="card">
-            <h3 className="title">{lab.getNombre()}</h3>
+            <h3 className="title">{lab.nombre}</h3>
         </div>
     )
 }
